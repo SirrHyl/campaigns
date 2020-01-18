@@ -21,3 +21,4 @@
 - [Red Larch](./assets/images/lieu/red_larch.jpg)
 - [Triboar](./assets/images/lieu/triboar.jpg)
 - [Westbridge](./assets/images/lieu/westbridge.png)
+- [Yartar](./assets/images/lieu/yartar.jpg)
