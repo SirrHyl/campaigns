@@ -6,3 +6,4 @@
   * [2. Séance 2](poar/2019_11_24.md)
   * [3. Séance 3](poar/2019_12_15.md)
   * [4. Séance 4](poar/2019_12_29.md)
+  * [5. Séance 5](poar/2020_01_19.md)
