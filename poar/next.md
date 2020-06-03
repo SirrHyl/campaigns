@@ -1,1 +1,0 @@
-![temple Utruz](assets/images/utiles/utruz_temple.jpg)
