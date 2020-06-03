@@ -4,7 +4,7 @@ Résumé et informations pour campagnes de JdR
 
 ## Liste des campagnes
 
-- [Princes de l'apocalypse Revisité](poar/README.md)
+- [Princes de l'apocalypse Revisité](https://dnd.wizards.com/products/tabletop-games/rpg-products/princes-apocalypse)
 
 ## Utiles
 
