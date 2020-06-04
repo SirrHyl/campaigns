@@ -17,6 +17,7 @@
 ## Lieu
 
 - [Plans](./assets/images/lieu/plans.jpg)
+- [World](./assets/images/lieu/world.jpg)
 - [Faerun](./assets/images/lieu/faerun.jpg)
 - [Sword Coast](./assets/images/lieu/sword_coast.jpg)
 - [Dessarin Valley](./assets/images/lieu/dessarin_valley.jpg)
