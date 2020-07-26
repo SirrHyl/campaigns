@@ -1,5 +1,5 @@
 ## Temple Utruz (Artefact de terre)
-![temple Utruz](assets/images/utiles/utruz_temple.jpg)
+![temple Utruz](./assets/images/utiles/utruz_temple.jpg)
 
 Au bout du couloir est et au bout du couloir après la salle 6, derrière 10m d'éboulement, se trouve l'artefact de la terre.
 
