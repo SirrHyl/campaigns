@@ -9,3 +9,4 @@
   - [5. Séance 5](poar/2020_01_19.md)
   - [6. Séance 6](poar/2020_02_09.md)
   - [7. Séance 7](poar/2020_02_23.md)
+  - [8. Séance 8](poar/2020_07_26.md)
