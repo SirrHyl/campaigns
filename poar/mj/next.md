@@ -45,7 +45,7 @@ Butin :
 - 3000 PO
 - Cotte de mailles en Mithral +1
 - Amulette de respiration aquatique
-- Hache à 2 mains +1
+- 1 dague de stockage de sort
 
 Si cella est fait reconnaissance des pirates :
 
@@ -88,7 +88,7 @@ Si le groupe n'a pas encore recruté de guide, alors il peut en trouver un ici s
 ## Bryn Shander
 
 Ville vivant du commerce et des activités minière et de la pêche. Ville gérée par **Taklinn Fortenclume**.  
-Ce dernier est préoccupé par la recrudescence d'activité des géants dans la région, ainsi 
+Ce dernier est préoccupé par la recrudescence d'activité des géants dans la région, ainsi que des hordes de Barbares qui s'agitent.
 
 Accueil bien plus chaleureux notemment à l'auberge de la pique givrante tenue par **Torgga**.
 
@@ -104,7 +104,9 @@ Rencontre avec 2 [géants du givre](https://www.aidedd.org/dnd/monstres.php?vf=g
 
 ![Entrée de la mine](../assets/images/utiles/mine_abandonnée.jpg)
 
-Elle est désaffectée mais une fois enfoncé à l'intérieur, le groupe sera surpris par une horde de [basilics](https://www.aidedd.org/dnd/monstres.php?vf=basilic).
+Elle est désaffectée mais une fois enfoncé à l'intérieur.
+
+**Astrid** arrivent en courant en disant qu'une horde de [basilics](https://www.aidedd.org/dnd/monstres.php?vf=basilic) arrivent et qu'il faut s'enfoncer dans la mine.
 
 La seule solution est de prendre 1 chariot afin de descendre plus profondément dans la mine.
 
@@ -121,3 +123,81 @@ Le chariot finit dans un mur à pleine vitesse si pas ralenti et donc tout le mo
 
 ![Ancien temple Karak](../assets/images/utiles/ancien_temple_karak.jpg)
 
+## Couloir 23
+
+- 2 Flail Snail (p144 Volo Monster)
+- 1 Black pudding (p241 Monster manual)
+
+## Salles 20 et 22
+
+Elles sont piégées et fermées DD22 pour ouvrir et désamorcer.
+
+A l'intérieur se trouve :
+
+- Clibanion +1
+- Hache à 2 mains +1
+
+## Toutes les autres salles
+
+Rien d'intéressant. Sauf avec jet de fouille (DD22), trouve 2 caissettes remplies de 888 PO en gemmes et pièces.
+
+### Salle 16
+
+Se trouve l'artefact de l'ombre. Il se présente comme étant **Varjot**.
+
+![Varjot](../assets/images/persos/varjot.jpg)
+
+Il veut **Astrid** pour lui et indiquera alors l'emplacement des 3 artéfacts à trouver.
+
+Si le groupe accepte :
+
+- Artéfact de l'air se trouve dans les `Star Mounts`
+- Artéfact de l'eau se trouve dans la `Mer de Moonshae`
+- Artéfact du feu se trouve dans le `Desert d'Anauroch`
+
+**Varjot** ouvre un portail et le passe avec **Astrid**.
+Alignement tendent vers le mauvais.
+
+Si le groupe refuse, le combat commence (p212 Volo Monster) :
+
+- Aura terreur 9m -> JS Sag 18
+- Attaque enlève un point au hasard si DD 17 dans la carctéristique non réussi
+- Convoque 2 paladins noirs (p211 Volo Monster)
+- [Silence](https://www.aidedd.org/dnd/sorts.php?vf=silence)
+- [Tentacule Noir d'Hevrad](https://www.aidedd.org/dnd/sorts.php?vf=tentacules-noirs-d-evard) => JS For ou Dex 18
+- [Eclair de chaos](https://www.aidedd.org/dnd/sorts.php?vf=eclair-de-chaos) => 2D8 + 3D6 For
+- [Télékinésie](https://www.aidedd.org/dnd/sorts.php?vf=telekinesie) => attire **Astrid**
+
+Si **Varjot** réussit à attraper **Astrid** il ouvre un portail dimensionnel et se téléporte avec elle.  
+S'il perd plus de 160 PV il est forcé par sa soeur à se téléporter.
+
+Le portail reste quelques secondes, et les aventuriers peuvent l'emprunter.
+
+Tout le long du combat il parle avec sa soeur qui lui demande d'arreter et d'épargner ces aventuriers.  
+Le groupe n'entend pas la voie de la soeur mais entend **Varjot** lui répondre qu'il ne voit pas comment faire autrement.
+
+Sa soeur n'est autre que l'artefact de la lumière nommée **Kevyt**.  
+Elle a besoin d'un nouvel hôte, et son frère essaye de forcer ce dernier alors qu'elle préférerait discuter et l'acceptation de l'hôte.
+
+## Salles 14, 15, 17 et 18
+
+Se trouve :
+
+- Une tiare de sagesse +2
+- Une épée courte +1
+
+## Après le combat
+
+**Robin** est apellé par sa patronne fée **Verdia** qui va lui remettre un objet puissant :
+
+- Amulette d'emplacement de sort +2
+
+Mais surtout le prévenir que la citée de `Néménora` a été attaquée.
+S'ils activent leur sort de téléportation, celui-ci les mènent à la citée des Hauts-elfes qui a été dévastée par des attaques d'élémentaires du feu.
+
+En fouillant, un sort de message a été laissé aux aventuriers disant que l'ensemble des elfes a été rappatriés dans leur citée et qu'ils entreront en contact avec eux.  
+Un sort leur permettra de revenir de là où ils sont partis.
+
+## Portails
+
+Si le groupe suit **Varjot** il se retrouve sur le plan du `gisombre`.
