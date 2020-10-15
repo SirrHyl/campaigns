@@ -1,39 +1,6 @@
 # Next session
 
-## En route vers Icewind Dale
-
-Au sortir de `Mirabar`, ou une demie-journée après le groupe est rejoint par une délégation de 4 gardes accompagnés d'**Astrid**.  
-Celle-ci a été missionnée par `la guilde des seigneurs` pour accompagner le groupe et délivrer des messages aux villes portuaires en `Icewindale`.  ara
-Nom des gardes :
-
-- Sota
-- Sotrop
-- Simara
-- Nangatra
-
-Rencontre possible avec 2D4+1 de [Ankheg](https://www.aidedd.org/dnd/monstres.php?vf=ankheg)
-Rencontre possible avec 2D6+2 [Orque](https://www.aidedd.org/dnd/monstres.php?vf=orque-chef-de-guerre) dont 2 chefs Berserker (+6 FOR +2 CON +20PV) et 2 chamans :
-
-- [Soin](https://www.aidedd.org/dnd/sorts.php?vf=soins)
-- [Attraction terrestre](https://www.aidedd.org/dnd/sorts.php?vf=attraction-terrestre)
-- [Appel de la foudre](https://www.aidedd.org/dnd/sorts.php?vf=appel-de-la-foudre)
-- [Boule de feu](https://www.aidedd.org/dnd/sorts.php?vf=boule-de-feu)
-- [Eclair](https://www.aidedd.org/dnd/sorts.php?vf=eclair)
-- [Hate](https://www.aidedd.org/dnd/sorts.php?vf=hate)
-- [Lame de feu](https://www.aidedd.org/dnd/sorts.php?vf=lame-de-feu)
-- [Trait de feu](https://www.aidedd.org/dnd/sorts.php?vf=trait-de-feu)
-
-## Mirabar (p50)
-
-Ville fortifiée dirigée par Selyn Raurim. Membre de l'alliance des seigneurs.
-
-Ville riche vivant des exploitation minières sous la ville.
-
 ## Luskan (p95)
-
-Ville pirate dirigée par 5 capitaines. Se trouve aussi la confrérie des Arcanes.
-
-Auberge L'étoile du matin étincelante => attention représentation houleuse généralement conclue par une bagarre de taverne.
 
 Aucun information concernant un artéfact.  
 Cherche à enroller pour le capitaine Suljack (3ème high capitaine).
