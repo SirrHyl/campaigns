@@ -22,26 +22,25 @@ Il est conseillé au groupe de se rendre à `Ironmaster` ou `Fireshear`. Les nai
 
 ## Fireshear
 
-Ville cotière naine gérée par le clan nain **Barbedegivre**, actuellement **Garshuk Barbedegivre**. Activités essentiiellement pêche et mines.
+Ville cotière naine gérée par le clan nain **Barbedegivre**, actuellement **Garshuk Barbedegivre**. Activités essentiellement pêche et mines.
 
 Groupe pas très bien reçu mais apaisement si **Alberich** sait se montrer social. Les nains ne parlent qu'à lui.
 
 Auberge l'enclume larmoyante, gérée par Ruuk n'a pas l'habitude de représentation, mais si DD 25 celle-ci est fortement appréciée par les nains présent.
 
-Des histoires d'une ancienne mine abandonnée se situant un peu plus loin après `Hundelstone` et avant `Bryn Shander`, à 2 jours de marche à l'est font état d'activités récentes...
-
-Un nain **Bardek Barbedegivre** peut les y conduire.  
-Attention, les aventuriers doivent être équipés contre le froid car en cette période (fin d'automne) et région du nord, le vent et la température sont féroces.
+Allez a `Ironmaster` afin de trouver plus d'informations et un guide nommé **Bardek Barbedegivre** pourra les conduire.
 
 ## Ironmaster (p62)
 
 Ville cotière naine gérée par **Storn Skulldark** fortifiée dans la roche, vivant des activités minières et de la pêche.
 
-Auberge le marteau grésillant gérée par **Audhild** même accueil qu'à `Fireshear`.
+Auberge le marteau grésillant gérée par **Audhild** même accueil qu'à `Fireshear`. Se trouve **Bardek**.
+
+Des histoires d'une ancienne mine abandonnée se situant un peu plus loin après `Hundelstone` et avant `Bryn Shander`, à 2 jours de marche à l'est font état d'activités récentes...
+  
+Attention, les aventuriers doivent être équipés contre le froid car en cette période (fin d'automne) et région du nord, le vent et la température sont féroces.
 
 Pas d'information sur un artéfact, mais des informations sur des géants qui s'activent dans les montagnes entre `Hundelstone` et `Bryn Shander`.
-
-Des guides plus à même de les accompagner peuvent être trouvés dans le ville de `Fireshear`.
 
 ## Hundelstone
 
@@ -51,6 +50,10 @@ Pas d'auberge précise, mais une maison avec une cantine et des dortoirs.
 La mine abandonnée est à 2 journées de marche vers l'est.
 
 Si le groupe n'a pas encore recruté de guide, alors il peut en trouver un ici sous la personne de **Einkil Balderk**.
+
+Activité des géants importante ces dernières semaines, notemment autour d'une vieille mine qu'ils pensaient désaffectées.
+
+Une présence sombre semble avoir élue domicile au fond de cette mine, qui attire les monstres et autres groupes mauvais.
 
 ## Bryn Shander
 
@@ -114,16 +117,28 @@ Se trouve l'artefact de l'ombre. Il se présente comme étant **Varjot**.
 
 ![Varjot](../assets/images/persos/varjot.jpg)
 
-Il veut **Astrid** pour lui et indiquera alors l'emplacement des 3 artéfacts à trouver.
+Il prend possession du corps d'un des aventuriers (sauf Querrark qui entend la terre lui dire de ne pas s'en méler)
 
-Si le groupe accepte :
+Dès qu'il est touché 2 fois il quitte le corps et se déplace sur un autre aventurier.
+
+S'il est soigné pendant qu'il occupe un corps il sort automatiquement.
+
+Une fois la possession finie l'aventurier qui vient d'être possédé effectue un jet d'intelligence pour résister au charme personne.
+Au bout de 2 ratés successifs il est possédé jusqu'à la fin du combat.
+
+**Varjot** désigne son champion sur le dernier possédé ou celui ayant fait le plus de dégâts.
+
+A la fin du combat sa soeur **Kevyt** artéfact de la lumière, intervient et demande à l'aventurier qui aura soigné s'il veut bien devenir son champion.
+
+![Kevyt](../assets/images/persos/kevyt.jpg)
+
+Si personne n'a soigné, alors elle fait passer un test aux 2 soigneuses du groupe.
+
+Une fois les chamions désignés, **Kevyt** donne la localisation des autres artéfacts :
 
 - Artéfact de l'air se trouve dans les `Star Mounts`
 - Artéfact de l'eau se trouve dans la `Mer de Moonshae`
 - Artéfact du feu se trouve dans le `Desert d'Anauroch`
-
-**Varjot** ouvre un portail et le passe avec **Astrid**.
-Alignement tendent vers le mauvais.
 
 Si le groupe refuse, le combat commence (p212 Volo Monster) :
 
@@ -143,8 +158,9 @@ Le portail reste quelques secondes, et les aventuriers peuvent l'emprunter.
 Tout le long du combat il parle avec sa soeur qui lui demande d'arreter et d'épargner ces aventuriers.  
 Le groupe n'entend pas la voie de la soeur mais entend **Varjot** lui répondre qu'il ne voit pas comment faire autrement.
 
-Sa soeur n'est autre que l'artefact de la lumière nommée **Kevyt**.  
-Elle a besoin d'un nouvel hôte, et son frère essaye de forcer ce dernier alors qu'elle préférerait discuter et l'acceptation de l'hôte.
+Sa soeur n'est autre que l'artefact de la lumière nommée **Kevyt**.
+
+Celle-ci choisit la personne qui c'est occupé de soigner les blessés
 
 ## Salles 14, 15, 17 et 18
 
@@ -164,7 +180,3 @@ S'ils activent leur sort de téléportation, celui-ci les mènent à la citée d
 
 En fouillant, un sort de message a été laissé aux aventuriers disant que l'ensemble des elfes a été rappatriés dans leur citée et qu'ils entreront en contact avec eux.  
 Un sort leur permettra de revenir de là où ils sont partis.
-
-## Portails
-
-Si le groupe suit **Varjot** il se retrouve sur le plan du `gisombre`.
